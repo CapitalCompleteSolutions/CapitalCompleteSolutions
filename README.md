@@ -12,12 +12,12 @@ We produce detailed, photo-evidenced reports that stand up as independent eviden
 
 | Service | What it is |
 |---|---|
-| **Inventory Reports** | A detailed written and photographic record of a property's condition and contents at the start of a tenancy. |
-| **Check-In Inspections** | Meeting the tenant on move-in day, walking the inventory, recording meter readings, getting the report signed. |
-| **Check-Out Inspections** | A like-for-like comparison against the original inventory, separating fair wear and tear from genuine damage. |
-| **Mid-Term & Routine Inspections** | Periodic visits during a live tenancy to catch maintenance issues and tenancy breaches early. |
-| **Legionella Risk Assessments** | A written assessment of water systems, meeting the landlord's duty under HSE guidance. |
-| **Energy Performance Certificates** | Energy rating assessment and certificate, lodged on the national register. |
+| **[Inventory Reports](https://www.capital-cs.com/services/inventory-reports)** | A detailed written and photographic record of a property's condition and contents at the start of a tenancy. |
+| **[Check-In Inspections](https://www.capital-cs.com/services/check-in-inspections)** | Meeting the tenant on move-in day, walking the inventory, recording meter readings, getting the report signed. |
+| **[Check-Out Inspections](https://www.capital-cs.com/services/check-out-inspections)** | A like-for-like comparison against the original inventory, separating fair wear and tear from genuine damage. |
+| **[Mid-Term & Routine Inspections](https://www.capital-cs.com/services/mid-term-inspections)** | Periodic visits during a live tenancy to catch maintenance issues and tenancy breaches early. |
+| **[Legionella Risk Assessments](https://www.capital-cs.com/services/legionella-risk-assessments)** | A written assessment of water systems, meeting the landlord's duty under HSE guidance. |
+| **[Energy Performance Certificates](https://www.capital-cs.com/services/energy-performance-certificates)** | Energy rating assessment and certificate, lodged on the national register. |
 
 ---
 
@@ -52,16 +52,23 @@ Member of the [Association of Independent Inventory Clerks](https://www.aiic.uk/
 - **Facebook** — https://www.facebook.com/capitalcompletesolutions/
 - **X** — https://x.com/capitalcsuk
 - **YouTube** — https://www.youtube.com/@CapitalCompleteSolutions
-- **Pinterest** — https://www.pinterest.com/capitalcompletesolutions/
+- **Pinterest** — https://uk.pinterest.com/capitalcompletesolutions/
 
 ### Landlord and agent guides
 
+- [Free deposit evidence checklist — 17 checks, no sign-up](https://capitalcompletesolutions.github.io/)
 - [Inventories, check-outs and compliance](https://capitalcompletesolutions.blogspot.com/)
 - [Deposit disputes and fair wear and tear](https://capitalcompletesolutions.wordpress.com/)
 - [Area guides: Solihull, Sutton Coldfield, Lichfield](https://capitalcompletesolutions.stck.me/)
 - [Compliance notes newsletter](https://capitalcompletesolutions.substack.com)
+- [Why most check-out reports lose deposit disputes](https://capitalcompletesolutions.substack.com/p/why-most-check-out-reports-lose-deposit)
+- [Mid-term inspections: the report nobody asks for until it is too late](https://capitalcompletesolutions.substack.com/p/mid-term-inspections-the-report-nobody)
+- [Deposit dispute guide (free PDF)](https://issuu.com/capitalcompletesolutions)
+- [Inventory and inspection services, Birmingham](https://sites.google.com/view/capital-complete-solutions)
+- [UK Landlord Compliance — our Quora Space](https://uklandlordcompliance.quora.com/)
 - [Articles on Medium](https://medium.com/@capitalcompletesolutions)
+- [Technical notes for proptech developers](https://dev.to/capital-cs)
 
 ---
 
-<sub>Capital Complete Solutions · Birmingham, West Midlands, United Kingdom · Monday–Saturday 09:00–17:00</sub>
+<sub>Capital Complete Solutions · 113 Victoria Road, Stechford, Birmingham B33 8AN · Monday–Friday 08:00–18:00 · Saturday 09:00–16:00</sub>
