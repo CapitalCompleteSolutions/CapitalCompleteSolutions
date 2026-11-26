@@ -71,4 +71,4 @@ Member of the [Association of Independent Inventory Clerks](https://www.aiic.uk/
 
 ---
 
-<sub>Capital Complete Solutions · 113 Victoria Road, Stechford, Birmingham B33 8AN · Monday–Friday 08:00–18:00 · Saturday 09:00–16:00</sub>
+<sub>Capital Complete Solutions · 113 Victoria Road, Stechford, Birmingham B33 8AN · Monday–Saturday 09:00–17:00 · Sunday closed</sub>
